@@ -5,4 +5,4 @@ The first project is to estimate human suffering and iteratively improve my mode
 
 The second project estimates the suffering inflicted on animals due to factory farming. This is harder since you need to quantify animal suffering. 
 
-The third project estimates the suffering caused by wild animal suffering. This is the hardest because we don't know a lot about it and we don't have any good solutions.
+The third project estimates the suffering caused by wild animal suffering. This is the hardest because we don't know a lot about it. 
